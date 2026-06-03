@@ -12,7 +12,7 @@ This project facilitates video content localization by automating subtitle trans
 **## Getting Started**
 1. Clone the repository:
  ```bash
-git clone https://github.com/polysok/ai-subtitles-translator.git
+git clone https://github.com/polysok/subtitles-translator.git
  ```
 2. Install dependencies:
  ```bash
@@ -26,7 +26,7 @@ npm start
 4. Import your `.srt` file and choose the translation language.
 
 **## Support**
-For help, open an issue on the [project's GitHub](https://github.com/polysok/ai-subtitles-translator/issues).
+For help, open an issue on the [project's GitHub](https://github.com/polysok/subtitles-translator/issues).
 
 **## Contributors**
 This project is maintained by Poly SOK and GitHub contributors. Contributions are welcome!
